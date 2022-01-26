@@ -1,4 +1,4 @@
-Made this Weather Application with ReactJs
+Made this Weather Application in ReactJs
 
 
 # Getting Started with Create React App
